@@ -4,10 +4,15 @@ AtliQ Mart is a growing FMCG (fast moving consumer Good) manufacturer headquarte
 
 # **Dataset**
 •	dim_customers.csv
+
 •	dim_products.csv
+
 •	dim_date
+
 •	dim_targets_orders
+
 •	fact_order_lines.csv
+
 •	fact_orders_aggregate.csv
 
 
