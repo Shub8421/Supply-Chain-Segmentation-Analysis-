@@ -74,7 +74,7 @@ Python
 
 •	Ahmedabad: 96.76% (Shortfall: 149,314 units)
 
-•	the cities with the lowest delivery rates. Vadodara, Surat, and Ahmedabad have the lowest delivery rates, all just above 96%. This means that for every 100 units ordered, about 3–4 units are not delivered.
+•	The cities with the lowest delivery rates. Vadodara, Surat, and Ahmedabad have the lowest delivery rates, all just above 96%. This means that for every 100 units ordered, about 3–4 units are not delivered.
 
 •	About 29% of all orders are delayed, with an average delay of 1.69 days for those that are late. The maximum observed delay is 3 days.
 
